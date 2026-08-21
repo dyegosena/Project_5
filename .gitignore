@@ -219,4 +219,3 @@ __marimo__/
 notebooks/vehicles.csv
 notebooks/vehicles_us.csv
 streamlit/config.toml
-vehicles_us.csv
